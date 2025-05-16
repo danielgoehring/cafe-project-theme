@@ -13,6 +13,23 @@ body {
   /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; */
 }
 
+/* Make the product page fill the full height of the screen */
+.product-page-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ensure product content grows and footer stays at the bottom */
+.woocommerce .product {
+  flex: 1;
+}
+
+/* Optional: make sure footer doesn't float */
+.site-footer {
+  margin-top: auto;
+}
+
 /* Apply Crimson Text globally */
 body,
 button,
