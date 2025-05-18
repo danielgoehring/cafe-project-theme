@@ -22,6 +22,8 @@ textarea,
 .woocommerce,
 .woocommerce * {
   font-family: "Crimson Text", serif;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+  /* font-family: "Times New Roman", Times, serif; */
 }
 
 /* Optional: Utility classes for different font styles */
@@ -898,7 +900,7 @@ bdi {
 }
 
 .products-menu-title {
-  font-size: 32px;
+  font-size: 30px;
   margin-top: 80px;
   margin-bottom: 24px;
   color: rgb(48, 48, 48);
