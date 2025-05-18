@@ -477,6 +477,14 @@ input#email {
     padding: 1rem;
   }
 }
+
+@media (min-width: 701px) {
+  .wc-block-components-sidebar-layout.wc-block-cart.wp-block-woocommerce-filled-cart-block.is-large {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
 @media (max-width: 768px) {
   .woocommerce ul.products[class*="columns-"] li.product,
   .woocommerce-page ul.products[class*="columns-"] li.product {
