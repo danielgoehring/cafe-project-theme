@@ -107,6 +107,10 @@ h2 {
   flex: 1;
 }
 
+body.single-product .site-footer {
+  margin-top: auto;
+}
+
 /* header content */
 
 /* .nav-links ul li {
