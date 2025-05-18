@@ -198,9 +198,14 @@ li {
   
 } */
 
+@media (max-width: 980px) {
+  .menu-menu-1-container {
+    margin: 18px 0;
+  }
+}
+
 .menu-menu-1-container {
   text-align: center;
-  /* padding-bottom: 20px; */
 }
 
 .woocommerce-product-details__short-description p {
@@ -716,7 +721,7 @@ bdi {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 981px) {
   .product-container .wp-block-group__inner-container {
     grid-template-columns: 1fr 1fr 1fr;
   }
