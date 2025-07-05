@@ -91,6 +91,10 @@ textarea,
   transform: translateY(0); /* Slide the description up */
 }
 
+h1 {
+  display: none;
+}
+
 h2 {
   color: rgb(48, 48, 48);
 }
