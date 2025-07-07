@@ -113,11 +113,11 @@ main h1 {
 
 main h2 {
   text-align: center;
+  font-size: 42px;
 }
 
 .blog-content {
   text-align: left;
-  font-size: 42px;
 }
 
 .blog-content h3 {
