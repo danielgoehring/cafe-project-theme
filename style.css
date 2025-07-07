@@ -101,11 +101,11 @@ h2 {
   min-height: 100vh;
 }
 
-/* main {
+main {
   text-align: center;
   max-width: 800px;
   margin: 0 auto;
-} */
+}
 
 .site-main {
   flex: 1;
@@ -681,7 +681,7 @@ bdi {
   }
 
   .front-page-header {
-    font-size: 80px;
+    font-size: 32px;
   }
 
   .menu-product .wp-block-group__inner-container {
