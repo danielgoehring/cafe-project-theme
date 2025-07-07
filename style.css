@@ -107,6 +107,18 @@ h2 {
   margin: 0 auto;
 }
 
+main h1 {
+  display: none;
+}
+
+main h2 {
+  text-align: center;
+}
+
+.blog-content {
+  text-align: left;
+}
+
 .site-main {
   flex: 1;
 }
