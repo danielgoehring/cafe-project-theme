@@ -118,6 +118,15 @@ main h2 {
 
 .blog-content {
   text-align: left;
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+
+.blog-content p {
+  line-height: 30px;
+  color: rgb(84, 84, 84);
+  font-size: 18px;
 }
 
 .blog-content h3 {
