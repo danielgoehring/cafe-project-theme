@@ -513,12 +513,6 @@ input#email {
     margin-top: 40px;
   }
 
-  .wp-block-woocommerce-checkout {
-    margin: 0 auto;
-    padding-top: 24px;
-    max-width: 1230px;
-  }
-
   .wc-block-components-sidebar-layout.wc-block-checkout.is-small {
     padding: 1rem;
   }
