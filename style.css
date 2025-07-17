@@ -535,6 +535,7 @@ input#email {
   .wc-block-components-sidebar-layout.wc-block-cart.wp-block-woocommerce-filled-cart-block.is-large {
     padding-left: 2rem;
     padding-right: 2rem;
+    max-width: 1200px;
   }
 }
 
