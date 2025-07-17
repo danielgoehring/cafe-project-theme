@@ -111,6 +111,10 @@ main h1 {
   display: none;
 }
 
+.entry-title {
+  display: none;
+}
+
 main h2 {
   text-align: center;
   font-size: 42px;
