@@ -505,6 +505,11 @@ input#email {
     padding: 1rem;
   }
 
+  .wc-block-components-sidebar-layout.wc-block-checkout.is-large {
+    padding: 1rem;
+    max-width: 1500px;
+  }
+
   .wc-block-cart-items__row {
     padding-bottom: 40px;
   }
