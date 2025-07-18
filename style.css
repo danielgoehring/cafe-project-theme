@@ -331,6 +331,10 @@ li {
   font-size: 14px;
 }
 
+ul {
+  padding: 0;
+}
+
 /* front page content */
 
 .img-front-page1 img {
