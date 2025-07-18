@@ -566,35 +566,17 @@ input#email {
     margin: 0 0 2.992em;
   }
 
-  #product-429 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  #product-430 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  #product-428 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  #product-427 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  #product-426 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
+  #product-429,
+  #product-447,
+  #product-430,
+  #product-428,
+  #product-427,
+  #product-426,
   #product-418 {
     padding-left: 1rem;
     padding-right: 1rem;
   }
+
   /* .summary.entry-summary {
     padding: 1rem;
   } */
