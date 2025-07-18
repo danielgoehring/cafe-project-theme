@@ -120,6 +120,10 @@ main h2 {
   /* margin-top: 100px; */
 }
 
+.front-page-header {
+  font-size: 22px;
+}
+
 .blog-post h6 {
   margin-top: 100px;
   margin-bottom: 40px;
