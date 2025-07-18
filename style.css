@@ -509,10 +509,16 @@ input#email {
   .woocommerce-product-gallery__image {
   max-height: 383px;
 }
-.wc-block-components-sidebar-layout.wc-block-cart.wp-block-woocommerce-filled-cart-block.is-mobile {
-  padding: 1rem;
+
+.wp-block-woocommerce-checkout {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 @media (min-width: 390px) {
+  .wc-block-components-sidebar-layout.wc-block-cart.wp-block-woocommerce-filled-cart-block.is-mobile {
+    padding: 1rem;
+  }
+
   .wc-block-components-sidebar-layout.wc-block-cart.wp-block-woocommerce-filled-cart-block.is-small {
     padding: 1rem;
   }
