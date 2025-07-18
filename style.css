@@ -566,15 +566,15 @@ input#email {
     margin: 0 0 2.992em;
   }
 
-  .summary.entry-summary {
+  /* .summary.entry-summary {
     padding: 1rem;
-  }
+  } */
 }
 
 @media (max-width: 767px) {
-  .summary.entry-summary {
+  /* .summary.entry-summary {
     padding: 0 1rem;
-  }
+  } */
 }
 
 @media (min-width: 770px) {
