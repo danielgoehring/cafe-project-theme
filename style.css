@@ -118,6 +118,7 @@ main h2 {
 }
 
 .blog-post h6 {
+  margin-top: 100px;
   text-align: center;
   font-size: 42px;
 }
